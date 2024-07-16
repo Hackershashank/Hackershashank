@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashank Singh</h1>
+<h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate coder from IIT Hyderabad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
