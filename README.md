@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackershashank&label=Profile%20views&color=0e75b6&style=flat" alt="hackershashank" /> </p>
 
-- 🌱 I’m currently learning **DSA in JAVA, Javascript, OOPS in JAVA**
+- 🌱 I’m currently learning **DSA in JAVA, Javascript, OOPS in JAVA, NodeJs, ExpressJs, MongoDB, python**
 
-- 💬 Ask me about **DSA and problem solving**
+- 💬 Ask me about **DSA and problem solving, Web Development**
 
 - 📫 How to reach me **shashanksingh14370@gmail.com**
 
