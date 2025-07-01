@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate coder from IIT Hyderabad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackershashank&label=Profile%20views&color=0e75b6&style=flat" alt="hackershashank" /> </p>
-
 - 🌱 I’m currently learning **DSA in JAVA, Javascript, OOPS in JAVA, NodeJs, ExpressJs, MongoDB, python**
 
-- 💬 Ask me about **DSA and problem solving, Web Development**
+- 💬 Discuss me about **DSA and problem solving, Web Development and Competitive programming**
 
-- 📫 How to reach me **shashanksingh14370@gmail.com**
+- 📫 To reach me **shashanksingh14370@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
